@@ -1,0 +1,11 @@
+Package: tiane.r
+Title: r code for search
+Version: 0.0.1
+Authors@R: 
+    person("ira", "james", , "irajames886@gmail.com", role = c("aut", "cre"),
+           comment = c(ORCID = "0009-0001-2076-365X"))
+Description: do some intergation with R，convinience for search
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.1
